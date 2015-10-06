@@ -1,4 +1,4 @@
-= minitest-rails
+sj= minitest-rails
 
 Minitest integration for Rails 4.1+
 
